@@ -6,3 +6,4 @@
 - fix: add a note about the defaults
 - chore: clarify the setup steps
 - fix: link the usage section
+- docs: link the usage section
